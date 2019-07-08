@@ -52,6 +52,7 @@ Open edit mode by entering ```vim hello.py```, if you prefer nano that's fine, I
 Press ```i``` to enter insert-mode and insert some text in the file by typing ```print('Hello GitHub!')```  
 Press ```Esc``` to exit insert-mode, save and close the file by entering ```:wq```
 
+
 Great! Now let's add and commit your file to your local repository
 
 ```bash
